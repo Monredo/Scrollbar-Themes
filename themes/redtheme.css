@@ -54,3 +54,11 @@
 ::-webkit-scrollbar-button:vertical:increment {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ff7878'><polygon points='0,15 100,15 50,75'/></svg>");
 }
+
+::-webkit-scrollbar-button:horizontal:decrement {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ff7878'><polygon points='15,50 75,100 75,0'/></svg>");
+}
+
+::-webkit-scrollbar-button:horizontal:increment {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ff7878'><polygon points='15,0 15,100 75,50'/></svg>");
+}
