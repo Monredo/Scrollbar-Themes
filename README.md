@@ -1,2 +1,1 @@
-<h1>Scrollbar-Themes</h1>
 Here are the Scrollbar Themes that you can use.
