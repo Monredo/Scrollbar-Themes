@@ -1,5 +1,8 @@
-# scrollbar-themes
-Scrollbar themes - Barras de desplazamiento de colores con temas predeterminados para que la gente los use.
+<p>
+<img src="https://raw.githubusercontent.com/Monredo/scrolltello/main/scrolltello.png">
+</p>
+
+Scrolltello - Barras de desplazamiento de colores con temas predeterminados para que la gente los use.
 ###### Descripción del problema
 El `::webkit-scrollbar-button:disabled` no funciona para este estado.
 # Ejempla
