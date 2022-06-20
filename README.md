@@ -1,9 +1,7 @@
 # scrollbar-themes
 Scrollbar themes - A coloured scrollbars with Default themes for people to use.
-
 ###### Problem Description
 The `::webkit-scrollbar-button:disabled` doesn't work for this state.
-
 # Example
 For example, like this:
 ```css
@@ -92,3 +90,12 @@ For example, like this:
   background-color: #dddddd;
 }
 ```
+# Scrollbar Selectors
+For webkit browsers, You can use the following pseudo elements to customize the browser's scrollbar:
+- `::-webkit-scrollbar` The scrollbar.
+- `::-webkit-scrollbar-button` The buttons on the scrollbar (arrows pointing upwards and downwards).
+- `::-webkit-scrollbar-thumb` The draggable scrolling handle.
+- `::-webkit-scrollbar-track` The track (progress bar) of the scrollbar.
+- `::-webkit-scrollbar-track-piece` The track (progress bar) NOT covered by the handle.
+- `::-webkit-scrollbar-corner` The bottom corner of the scrollbar, where both horizontal and vertical scrollbars meet.
+- `::-webkit-resizer` The draggable resizing handle that appears at the bottom corner of some elements.
