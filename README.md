@@ -1,5 +1,8 @@
-# scrollbar-themes
-Scrollbar themes - A coloured scrollbars with Default themes for people to use.
+<p>
+<img src="https://raw.githubusercontent.com/Monredo/scrolltello/main/scrolltello.png">
+</p>
+
+Scrolltello - A coloured scrollbars with Default themes for people to use.
 ###### Problem Description
 The `::webkit-scrollbar-button:disabled` doesn't work for this state.
 # Example
