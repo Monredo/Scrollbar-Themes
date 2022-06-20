@@ -1,5 +1,8 @@
-# scrollbar-themes
-Scrollbar themes - Una barra di scorrimento colorata con temi predefiniti che le persone possono utilizzare.
+<p>
+<img src="https://raw.githubusercontent.com/Monredo/scrolltello/main/scrolltello.png">
+</p>
+
+Scrolltello - Una barra di scorrimento colorata con temi predefiniti che le persone possono utilizzare.
 ###### Descrizione del problema
 Il `::webkit-scrollbar-button:disabled` non funziona per questo stato.
 # Esempio
