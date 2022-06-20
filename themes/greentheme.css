@@ -62,3 +62,7 @@
 ::-webkit-scrollbar-button:horizontal:increment {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23a0ff99'><polygon points='15,0 15,100 75,50'/></svg>");
 }
+
+::-webkit-scrollbar-corner {
+    background-color: #38a135;
+}
