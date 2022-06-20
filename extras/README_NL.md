@@ -1,5 +1,8 @@
-# scrollbar-themes
-Scrollbar themes - Een gekleurde schuifbalk met standaardthema's die mensen kunnen gebruiken.
+<p>
+<img src="https://raw.githubusercontent.com/Monredo/scrolltello/main/scrolltello.png">
+</p>
+
+Scrolltello - Een gekleurde schuifbalk met standaardthema's die mensen kunnen gebruiken.
 ###### Probleembeschrijving
 De `::webkit-scrollbar-button:disabled` werkt niet voor deze status.
 # Voorbeeld
