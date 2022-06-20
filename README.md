@@ -91,7 +91,7 @@ For example, like this:
 }
 ```
 # Scrollbar Selectors
-For webkit browsers, You can use the following pseudo elements to customize the browser's scrollbar:
+For webkit browsers, You can use the following pseudo elements to customise the browser's scrollbar:
 - `::-webkit-scrollbar` The scrollbar.
 - `::-webkit-scrollbar-button` The buttons on the scrollbar (arrows pointing upwards and downwards).
 - `::-webkit-scrollbar-thumb` The draggable scrolling handle.
