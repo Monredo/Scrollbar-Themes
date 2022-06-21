@@ -60,7 +60,14 @@ nav {
 }
 
 code {
-  padding: 11px;
-  color: indigo;
+  padding: 2px;
+  color: #b755ff;
   border-radius: 3px;
+  font-size: 20px;
+  background: #FAFAFA;
+}
+
+code::selection {
+  color: white;
+  background: #b755ff;
 }
