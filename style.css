@@ -73,29 +73,29 @@ a:hover {
   line-height: 2ch;
 }
 
-.info::-webkit-scrollbar {
+::-webkit-scrollbar {
   width: 17px;
   height: 17px;
 }
 
-.info::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
   background: #f1f1f1; 
 }
 
-.info::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
   background-color: #c1c1c1;
   border: 2px solid #f1f1f1;
 }
 
-.info::-webkit-scrollbar-thumb:hover {
+::-webkit-scrollbar-thumb:hover {
   background-color: #a8a8a8;
 }
 
-.info::-webkit-scrollbar-thumb:active {
+::-webkit-scrollbar-thumb:active {
   background-color: #787878;
 }
 
-.info::-webkit-scrollbar-button {
+::-webkit-scrollbar-button {
   background-color: #f1f1f1;
   background-repeat: no-repeat;
   background-size: 7px;
@@ -104,7 +104,7 @@ a:hover {
   width: 17px;
 }
 
-.info::-webkit-scrollbar-button:hover {
+::-webkit-scrollbar-button:hover {
   background-color: #d2d2d2;
   background-repeat: no-repeat;
   background-size: 7px;
@@ -113,7 +113,7 @@ a:hover {
   width: 17px;
 }
 
-.info::-webkit-scrollbar-button:active {
+::-webkit-scrollbar-button:active {
   background-color: #787878;
   background-repeat: no-repeat;
   background-size: 7px;
@@ -122,39 +122,39 @@ a:hover {
   width: 17px;
 }
 
-.info::-webkit-scrollbar-button:vertical:decrement {
+::-webkit-scrollbar-button:vertical:decrement {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23505050'><polygon points='50,30 100,80 0,80'/></svg>");
 }
 
-.info::-webkit-scrollbar-button:vertical:increment {
+::-webkit-scrollbar-button:vertical:increment {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23505050'><polygon points='0,15 100,15 50,75'/></svg>");
 }
 
-.info::-webkit-scrollbar-button:horizontal:decrement {
+::-webkit-scrollbar-button:horizontal:decrement {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23505050'><polygon points='15,50 75,100 75,0'/></svg>");
 }
 
-.info::-webkit-scrollbar-button:horizontal:increment {
+::-webkit-scrollbar-button:horizontal:increment {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23505050'><polygon points='15,0 15,100 75,50'/></svg>");
 }
 
-.info::-webkit-scrollbar-button:vertical:decrement:active {
+::-webkit-scrollbar-button:vertical:decrement:active {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ffffff'><polygon points='50,30 100,80 0,80'/></svg>");
 }
 
-.info::-webkit-scrollbar-button:vertical:increment:active {
+::-webkit-scrollbar-button:vertical:increment:active {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ffffff'><polygon points='0,15 100,15 50,75'/></svg>");
 }
 
-.info::-webkit-scrollbar-button:horizontal:decrement:active {
+::-webkit-scrollbar-button:horizontal:decrement:active {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ffffff'><polygon points='15,50 75,100 75,0'/></svg>");
 }
 
-.info::-webkit-scrollbar-button:horizontal:increment:active {
+::-webkit-scrollbar-button:horizontal:increment:active {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ffffff'><polygon points='15,0 15,100 75,50'/></svg>");
 }
 
-.info::-webkit-scrollbar-corner {
+::-webkit-scrollbar-corner {
   background-color: #dddddd;
 }
 
