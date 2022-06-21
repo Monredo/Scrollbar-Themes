@@ -17,6 +17,12 @@
     <link rel="icon" sizes="512x512" href="/scrolltello/icons/icon-512x512.png"/>
 </head>
 <div>
+<script>
+  const checkbox = document.getElementById("checkbox")
+  checkbox.addEventListener("change", () => {
+  document.body.classList.toggle("dark")
+})
+</script>
   <input type="checkbox" class="checkbox" id="checkbox">
   <label for="checkbox" class="checkbox-label">
     <i class="fas fa-moon"></i>
