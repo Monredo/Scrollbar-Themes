@@ -60,9 +60,93 @@ a:hover {
 .example {
   background: #F5F5F5;
   width: 100%;
-  height: 100%;
+  height: 130px;
   margin-top: 32px;
   overflow: auto;
   padding: 16px;
 }
+
+.example::-webkit-scrollbar {
+  width: 17px;
+  height: 17px;
+}
+
+.example::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
+.example::-webkit-scrollbar-thumb {
+  background-color: #c1c1c1;
+  border: 2px solid #f1f1f1;
+}
+
+.example::-webkit-scrollbar-thumb:hover {
+  background-color: #a8a8a8;
+}
+
+.example::-webkit-scrollbar-thumb:active {
+  background-color: #787878;
+}
+
+.example::-webkit-scrollbar-button {
+  background-color: #f1f1f1;
+  background-repeat: no-repeat;
+  background-size: 7px;
+  background-position: center;
+  height: 17px;
+  width: 17px;
+}
+
+.example::-webkit-scrollbar-button:hover {
+  background-color: #d2d2d2;
+  background-repeat: no-repeat;
+  background-size: 7px;
+  background-position: center;
+  height: 17px;
+  width: 17px;
+}
+
+.example::-webkit-scrollbar-button:active {
+  background-color: #787878;
+  background-repeat: no-repeat;
+  background-size: 7px;
+  background-position: center;
+  height: 17px;
+  width: 17px;
+}
+
+.example::-webkit-scrollbar-button:vertical:decrement {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23505050'><polygon points='50,30 100,80 0,80'/></svg>");
+}
+
+.example::-webkit-scrollbar-button:vertical:increment {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23505050'><polygon points='0,15 100,15 50,75'/></svg>");
+}
+
+.example::-webkit-scrollbar-button:horizontal:decrement {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23505050'><polygon points='15,50 75,100 75,0'/></svg>");
+}
+
+.example::-webkit-scrollbar-button:horizontal:increment {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23505050'><polygon points='15,0 15,100 75,50'/></svg>");
+}
+
+.example::-webkit-scrollbar-button:vertical:decrement:active {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ffffff'><polygon points='50,30 100,80 0,80'/></svg>");
+}
+
+.example::-webkit-scrollbar-button:vertical:increment:active {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ffffff'><polygon points='0,15 100,15 50,75'/></svg>");
+}
+
+.example::-webkit-scrollbar-button:horizontal:decrement:active {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ffffff'><polygon points='15,50 75,100 75,0'/></svg>");
+}
+
+.example::-webkit-scrollbar-button:horizontal:increment:active {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23ffffff'><polygon points='15,0 15,100 75,50'/></svg>");
+}
+
+.example::-webkit-scrollbar-corner {
+  background-color: #dddddd;
 }
