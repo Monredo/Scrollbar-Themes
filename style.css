@@ -67,6 +67,7 @@ a:hover {
   padding: 16px;
   border-radius: 7px !important;
   text-align: left;
+  overflow-x: hidden;
 }
 
 .info::-webkit-scrollbar {
