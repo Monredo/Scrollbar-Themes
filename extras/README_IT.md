@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/Monredo/scrolltello/main/scrolltello.png">
 </p>
 
+Leggi [English](https://github.com/Monredo/scrolltello/blob/main/README.md) | [Español](https://github.com/Monredo/scrolltello/blob/main/extras/README_ES.md) | [Nederlands](https://github.com/Monredo/scrolltello/blob/main/extras/README_NL.md)
+
 Scrolltello - Una barra di scorrimento colorata con temi predefiniti che le persone possono utilizzare.
 ###### Descrizione del problema
 Il `::webkit-scrollbar-button:disabled` non funziona per questo stato.
