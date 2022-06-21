@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/Monredo/scrolltello/main/scrolltello.png">
 </p>
 
+Lees in [English]([https://github.com/Monredo/scrolltello/blob/main/extras/README_ES.md](https://github.com/Monredo/scrolltello/blob/main/README.md)) | [Español](https://github.com/Monredo/scrolltello/blob/main/extras/README_ES.md) | [Italiano](https://github.com/Monredo/scrolltello/blob/main/extras/README_IT.md)
+
 Scrolltello - Een gekleurde schuifbalk met standaardthema's die mensen kunnen gebruiken.
 ###### Probleembeschrijving
 De `::webkit-scrollbar-button:disabled` werkt niet voor deze status.
