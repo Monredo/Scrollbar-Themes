@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/Monredo/scrolltello/main/scrolltello.png">
 </p>
 
+Read in [Español](https://github.com/Monredo/scrolltello/blob/main/extras/README_ES.md) | [Italiano](https://github.com/Monredo/scrolltello/blob/main/extras/README_IT.md) | [Nederlands](https://github.com/Monredo/scrolltello/blob/main/extras/README_NL.md)
+
 Scrolltello - A coloured scrollbars with Default themes for people to use.
 ###### Problem Description
 The `::webkit-scrollbar-button:disabled` doesn't work for this state.
