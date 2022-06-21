@@ -70,6 +70,7 @@ a:hover {
   border-radius: 7px !important;
   text-align: left;
   overflow-x: hidden;
+  line-height: 2ch;
 }
 
 .info::-webkit-scrollbar {
