@@ -64,6 +64,7 @@ a:hover {
   margin-top: 32px;
   overflow: auto;
   padding: 16px;
+  border-radius: 7px !important;
 }
 
 .example::-webkit-scrollbar {
