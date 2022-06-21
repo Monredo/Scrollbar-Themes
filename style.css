@@ -158,46 +158,7 @@ a:hover {
   background-color: #dddddd;
 }
 
-body.dark {
-  background-color: #292c35;
-}
-
-body.dark h1, body.dark {
-  color: #ffffff;
-}
-
-.checkbox {
-  opacity: 0;
-  position: absolute;
-}
-
-.checkbox-label {
-  background-color: #111;
-  width: 50px;
-  height: 26px;
-  border-radius: 50px;
-  position: relative;
-  padding: 5px;
-  cursor: pointer;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.fa-moon {color: #f1c40f;}
-
-.fa-sun {color: #f39c12;}
-
-.checkbox-label .ball {
-  background-color: #fff;
-  width: 27px;
-  height: 27px;
-  position: absolute;
-  left: 2px;
-  border-radius: 50%;
-  transition: transform 0.2s;
-}
-
-.checkbox:checked + .checkbox-label .ball {
-  transform: translateX(29px);
+.dark-mode {
+  background-color: black;
+  color: white;
 }
