@@ -68,3 +68,14 @@ code::selection {
   color: white;
   background: #b755ff;
 }
+
+pre {
+  background: #f2f2f2;
+  color: indigo;
+  width: 165px;
+}
+
+pre::selection {
+  background: indigo;
+  color: #f2f2f2;
+}
