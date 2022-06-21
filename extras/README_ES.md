@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/Monredo/scrolltello/main/scrolltello.png">
 </p>
 
+Leer en [English](https://github.com/Monredo/scrolltello/blob/main/README.md) | [Italiano](https://github.com/Monredo/scrolltello/blob/main/extras/README_IT.md) | [Nederlands](https://github.com/Monredo/scrolltello/blob/main/extras/README_NL.md)
+
 Scrolltello - Barras de desplazamiento de colores con temas predeterminados para que la gente los use.
 ###### Descripción del problema
 El `::webkit-scrollbar-button:disabled` no funciona para este estado.
