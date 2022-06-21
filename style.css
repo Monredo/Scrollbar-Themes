@@ -336,3 +336,40 @@ a:hover {
 .dark-mode .info::-webkit-scrollbar-corner {
   background-color: #242424;
 }
+
+input[type=checkbox] {
+  position: relative;
+  border: 1px solid #cfcfcf;
+  border-radius: 10px;
+  background: white;
+  cursor: pointer;
+  line-height: 0;
+  margin: 0 .4em 0 0;
+  transform: translateY(-0.4px);
+  outline: 0;
+  padding: 0;
+  vertical-align: text-top;
+  width: 20px;
+  height: 20px;
+  -webkit-appearance: none;
+  transition: .3s;
+}
+
+input[type=checkbox]:checked {
+  background: #0096ff;
+  border: 1px solid #0096ff;
+}
+
+input[type=checkbox]:before {
+  content: '';
+  position: absolute;
+  right: 50%;
+  top: 50%;
+  width: 4px;
+  height: 10px;
+  border: solid #FFF;
+  border-width: 0 2px 2px 0;
+  margin: -1px -1px 0 -1px;
+  transform: rotate(45deg) translate(-50%, -50%);
+  z-index: 2;
+}
