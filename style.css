@@ -357,7 +357,7 @@ input[type=checkbox] {
 
 input[type=checkbox]:checked {
   background: #0096ff;
-  border: 1px solid #0096ff;
+  border: 1px solid #0083df;
 }
 
 input[type=checkbox]:before {
