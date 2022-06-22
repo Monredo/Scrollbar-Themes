@@ -373,10 +373,19 @@ input[type=checkbox] {
   transition: .3s;
 }
 
+input[type=checkbox]:hover {
+  border: 1px solid #a4a4a4;
+}
+
 input[type=checkbox]:checked {
   background: #0096ff;
   border: 1px solid #0083df;
 }
+
+input[type=checkbox]:checked:hover {
+  background: #0083df;
+  border: 1px solid #0072c2;
+}     
 
 input[type=checkbox]:before {
   content: '';
